@@ -1,12 +1,13 @@
 
-# Introduction
+# HTML, CSS and Web Scraping - Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 18 and why they'll be important to you as a data scientist.
+
+In this section you'll begin to investigate content from the web. You'll start by learning a bit of HTML and CSS, the foundations for the web and from there you'll take a look at how to scrape information from the web in order to systematically create and build datasets that may not be otherwise available to you.
 
 ## Objectives
 You will be able to:
-* Understand and explain what is covered in this section
+* Give a brief summary of what is to be covered in this section
 * Understand and explain why the section will help you to become a data scientist
 
 ## HTML, CSS and Web Scraping
@@ -15,15 +16,15 @@ While many companies provide access to information via APIs, sometimes you have 
 
 ### HTML
 
-We kick off the section with an introduction to the HyperText Markup Language (HTML) - the "language of the web". We then get you "up to speed" with some of the more recent developments in HTML by introducing HTML5 semantic elements - designed to make HTML more consistent and readable. After that we look into the process for handling new HTML elements that you might not have encountered before.
+HTML stands for HyperText Markup Language - the "language of the web". You'll start byu looking at some of the more recent developments in HTML by introducing HTML5 semantic elements - designed to make HTML more consistent and readable. After that you'll look into the process for handling new HTML elements that you might not have encountered before.
 
 ### CSS
 
-Next up, we introduce Cascading Style Sheets (how we make web pages look pretty). We start by introducing the concept of separating content from presentation, then introduce CSS, do a code along and then provide you with three labs to get some practice working with HTML and CSS.
+CSS or Cascading Style Sheets is how you make web pages look snazzy. You'll see more about how proper web development workflows sepearte content from presentation.
 
 ### Web Scraping
 
-Finally, we introduce beautiful soup - a package for scraping websites, and then give you some practice of using it to retrieve information from a website.
+Finally, you'll practice using Beautiful Soup - a package for scraping websites.
 
 
 

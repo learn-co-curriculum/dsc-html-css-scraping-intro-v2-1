@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this section you'll begin to investigate content from the web. You'll start by learning a bit of HTML and CSS, the foundations for the web and from there you'll take a look at how to scrape information from the web in order to systematically create and build datasets that may not be otherwise available to you.
+In this section, you'll begin to investigate content from the web. You'll start by learning a bit of HTML and CSS, the foundations for the web and from there you'll take a look at how to scrape information from the web in order to systematically create and build datasets that may not be otherwise available to you.
 
 ## Objectives
 You will be able to:
@@ -12,11 +12,11 @@ You will be able to:
 
 ## HTML, CSS and Web Scraping
 
-While many companies provide access to information via APIs, sometimes you have to scrape the information that you need for your analysis from web pages designed to be read by people. In this section we'll build upon what we learned about client/server architectures, the http(s) request/response cycle and retrieving data from APIs to learn how to obtain data by scraping web pages.
+While many companies provide access to information via APIs, sometimes you have to scrape the information that you need for your analysis from web pages designed to be read by people. 
 
 ### HTML
 
-HTML stands for HyperText Markup Language - the "language of the web". You'll start byu looking at some of the more recent developments in HTML by introducing HTML5 semantic elements - designed to make HTML more consistent and readable. After that you'll look into the process for handling new HTML elements that you might not have encountered before.
+HTML stands for HyperText Markup Language - the "language of the web". You'll start by looking at some of the more recent developments in HTML by introducing HTML5 semantic elements - designed to make HTML more consistent and readable. After that, you'll look into the process for handling new HTML elements that you might not have encountered before.
 
 ### CSS
 

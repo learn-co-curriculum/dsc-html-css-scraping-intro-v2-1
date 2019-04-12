@@ -20,7 +20,7 @@ HTML stands for HyperText Markup Language - the "language of the web". You'll st
 
 ### CSS
 
-CSS or Cascading Style Sheets is how you make web pages look snazzy. You'll see more about how proper web development workflows sepearte content from presentation.
+CSS or Cascading Style Sheets is how you make web pages look snazzy. You'll see more about how proper web development workflows separate content from presentation.
 
 ### Web Scraping
 
@@ -32,5 +32,3 @@ Finally, you'll practice using Beautiful Soup - a package for scraping websites.
 ## Summary
 
 You will often find that the information you want to retrieve isn't available via an API. When that's the case, it's incredibly important to be proficient with web scraping so that you can retrieve the information you need for your analysis.
-
-

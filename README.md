@@ -11,7 +11,7 @@ While many companies provide access to information via APIs, sometimes you have 
 
 ### HTML
 
-HTML stands for HyperText Markup Language - the "language of the web". You'll start by looking at some of the more recent developments in HTML by introducing HTML5 semantic elements - designed to make HTML more consistent and readable. After that, you'll look into the process for handling new HTML elements that you might not have encountered before.
+HTML stands for HyperText Markup Language - the "language of the web". You'll start by learning HTML syntax and practice creating HTML documents. After that, you'll look into the process for handling new HTML elements that you might not have encountered before.
 
 ### CSS
 

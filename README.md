@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this section, you'll begin to investigate content from the web. You'll start by learning a bit of HTML and CSS, the foundations for the web and from there you'll take a look at how to scrape information from the web in order to systematically create and build datasets that may not be otherwise available to you.
+In this section, you'll begin to investigate content from the web. You'll start by learning a bit of HTML and CSS, the foundations for the web, and from there you'll take a look at how to scrape information from the web in order to systematically create and build datasets that may not be otherwise available to you.
 
 ## HTML, CSS and Web Scraping
 
@@ -11,7 +11,7 @@ While many companies provide access to information via APIs, sometimes you have 
 
 ### HTML
 
-HTML stands for HyperText Markup Language - the "language of the web". You'll start by learning HTML syntax and practice creating HTML documents. After that, you'll look into the process for handling new HTML elements that you might not have encountered before.
+HTML stands for HyperText Markup Language - the "language of the web". You'll start by learning HTML syntax and practice exploring HTML documents. After that, you'll look into the process for handling new HTML elements that you might not have encountered before.
 
 ### CSS
 
